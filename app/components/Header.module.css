@@ -1,0 +1,22 @@
+.header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .headerUl {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .headerLi {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  .headerLink {
+    color: white;
+    text-decoration: none;
+  }
+  
