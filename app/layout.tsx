@@ -1,7 +1,6 @@
-import Header from './components/Header';
+import Header from '../components/header/Header';
 import '@/app/globals.css';
 
-// Import ReactNode from React
 import { ReactNode } from 'react';
 
 // Define a type for your component's props
